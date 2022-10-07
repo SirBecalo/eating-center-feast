@@ -42,3 +42,35 @@ ___
 
     *Not all carbs are created equal, and this sausage pasta knows it. Towering the carb heirarchy, this dish got style, got sass, and with each bite it bites back. worthy of italian royalty and deserving of love, every fork will have you shouting "mama mia!"*
     ![pasta](pasta.png)
+
+---
+
+### soup
+
+- **Elite Squad Mushtoom soup**
+
+    *Now mushrooms have been touted for their health benefits, great taste, and versatility. then there are shrooms, touted for their amazing hallucenegenic potency. i present you you this fine creation. your mind will be blown sky high. all the drugging, none of the drugs*
+
+    ![potatoes](loaded.jpg)
+     > editors note: mushroom soup image was missing. please enjoy my signature loaded potatoes image instead.
+
+---
+
+### Salad
+- **Mideteranian Tzatziki Salad**
+
+    *have you been to greece? neither have i, but if you inhale a blunt of weed and then eat this salad, you may be blessed with the scenery of the mediteranian sea, beatiful houses, and gorgeous people. in that case, you are way too high. fresh greenery, saucy greek dressing, and tender steak mix to practicaly dance on your taste buds.*
+
+    ![salad](salad.png)
+
+---
+
+### Dessert
+
+- **Zesty Lemon Tart**
+
+    *Few people on earth deserve a bite, fewer deserve a second. Zesty, Sweet, Addictive. Eat them quick, or you risk broken freindships. Dont believe me? perfect, ill have your piece please. alternatively ask fellow students who witnessed the greatness last year.*
+
+    ![lemon](lemon.jpg)
+
+    > "best thing ive ever tasted" -Someone, probably.
