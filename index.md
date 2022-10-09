@@ -6,7 +6,7 @@ marp: false
 
 Organizer's Note: please invite all your UOL friends, this is an open feast for all UOL students and staff of all sememsters.
 
-Location of event: https://maps.app.goo.gl/BkL9umh1a6df8Psb7
+Location of event: [location](https://maps.app.goo.gl/BkL9umh1a6df8Psb7)
 
 
  **please take most titles and texts as jokes, this is just a small feast organized by your serial foodie**
